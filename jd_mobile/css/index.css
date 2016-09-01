@@ -1,0 +1,215 @@
+
+html,body {
+    background: pink;
+    min-width: 300px;
+    max-width: 640px;
+    margin: 0 auto;
+    height: 2000px;
+}
+
+.jd-layout {
+    min-width: 300px;
+    max-width: 640px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.jd-header {
+    width: 100%;
+    height: 40px;
+    background: #ccc;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+.jd-header .jd-header-box{
+    width: 100%;
+    min-width: 320px;
+    max-width: 640px;
+    margin: 0 auto;
+    position: relative;
+    background: rgba(201,21,35,0);
+    height: 40px;
+}
+.jd-header-box .icon-logo {
+    background-position: 0 -103px;
+    display: block;
+    height: 36px;
+    width: 60px;
+    position: absolute;
+    top: 4px;
+    left: 10px;
+}
+.jd-header-box form{
+    width: 100%;
+    height: 40px;
+    padding-left: 75px;
+    padding-right: 55px;
+    position: relative;
+}
+ form .icon-search{
+    display: block;
+    height: 30px;
+    width: 30px;
+    background-position: -118px 3px;
+    position: absolute;
+    top: 10px;
+    left: 80px;
+}
+.jd-header-box input {
+    width: 100%;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding-left: 30px;
+
+}
+.jd-header-box .login {
+    position: absolute;
+    right: 12px;
+    top: 12px;
+    color: #ffffff;
+}
+
+
+/*banner 部分*/
+.jd-banner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+
+
+}
+.jd-banner .slider-pic {
+    width: 800%;
+
+}
+.jd-banner .slider-pic >li{
+    float: left;
+    width: 12.5%;
+
+}
+.jd-banner .slider-pic >li img {
+    width: 100%;
+    display: block;
+}
+.jd-banner .pos {
+    width: 118px;
+    height: 6px;
+    position: absolute;
+    bottom: 10px;
+    left:50%;
+    margin-left: -59px;
+}
+.jd-banner .pos li {
+    width: 8px;
+    height: 8px;
+    border: 1px solid #ebebeb;
+    float: left;
+    border-radius: 5px;
+    margin-left: 5px;
+
+}
+.jd-nav {
+    width: 100%;
+    position: relative;
+    background: url(../images/dapangxie.jpg)no-repeat;
+    background-size: contain;
+
+}
+.jd-nav ul {
+    width: 100%;
+}
+.jd-nav li {
+    float: left;
+    position: relative;
+    width: 20%;
+    text-align: center;
+    padding-bottom: 16px;
+
+}
+.jd-nav li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.jd-nav li img {
+    width: 46px;
+    height: 46px;
+}
+.jd-nav li p {
+    color: #ffffff;
+    font-family: "微软雅黑";
+}
+
+
+    /*螃蟹脚*/
+.nav-extra {
+    width: 100%;
+    position: relative;
+    top: -2px;
+
+}
+.nav-extra .extra-children {
+    float: left;
+    width: 33.3%;
+
+}
+.nav-extra .extra-children  img{
+    width: 100%;
+    display: block;
+}
+
+@media screen and (min-width: 320px){
+    .jd-nav li p {
+        font-size: 10px;
+    }
+    .jd-nav li img {
+        width: 30px;
+        height: 32px;
+    }
+}
+
+@media screen and (min-width: 375px){
+    .jd-nav li p {
+        font-size: 14px;
+    }
+    .nav-extra {
+        width: 100%;
+        position: relative;
+        top: -13px;
+
+    }
+    .jd-nav li img {
+        width: 46px;
+        height: 46px;
+    }
+}
+@media screen and (min-width: 414px){
+    .jd-nav li p {
+        font-size: 16px;
+    }
+    .jd-nav li img {
+        width: 46px;
+        height: 46px;
+    }
+    .nav-extra {
+        width: 100%;
+        position: relative;
+        top: -2px;
+
+    }
+}
+@media screen and (min-width: 640px) {
+    .jd-nav li img {
+        width: 90px;
+        height: 90px;
+    }
+}
+
+
+
+
+
+
