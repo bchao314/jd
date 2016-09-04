@@ -470,6 +470,7 @@ html,body {
     padding-top: 5px;
     border-right: 1px solid #F2F2F2;
     border-bottom: 1px solid #F2F2F2;
+    position: relative;
 }
 .featrues .pExtra-list .pBox-font {
     width: 100%;
@@ -485,6 +486,14 @@ html,body {
 .featrues .pExtra-list .pBox-font .p-dec {
     font-size: 14px;
     font-family:"微软雅黑";
+}
+.featrues .pExtra-list .pBox-font .p-hot {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #F02B2B;
+    color: #ffffff;
+    padding: 0 3px;
 }
 .featrues .pExtra-list .pBox-pic {
     width: 100%;
@@ -605,7 +614,6 @@ html,body {
         font-size: 12px;
         height: 18px;
     }
-
 }
 
 
