@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4c4a382-8bbb-4672-a370-6b6a768e5c8a" name="默认的" comment="end">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jd_mobile/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jd_mobile/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jd_mobile/inedex.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jd_mobile/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jd_web/images/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jd_web/images/topbanner.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd_web/images/night.jpg" afterPath="$PROJECT_DIR$/jd_web/images/night.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd_web/images/slider1.jpg" afterPath="$PROJECT_DIR$/jd_web/images/slider1.jpg" />
+    <list default="true" id="d4c4a382-8bbb-4672-a370-6b6a768e5c8a" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd_web/css/base.css" afterPath="$PROJECT_DIR$/jd_web/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd_web/css/index.css" afterPath="$PROJECT_DIR$/jd_web/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd_web/index.html" afterPath="$PROJECT_DIR$/jd_web/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd_web/js/index.js" afterPath="$PROJECT_DIR$/jd_web/js/index.js" />
     </list>
     <ignored path="jd.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +51,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jd_web/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.186014">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6694678">
+              <caret line="337" column="17" selection-start-line="337" selection-start-column="17" selection-end-line="337" selection-end-column="17" />
               <folding>
                 <element signature="e#92#201#0" expanded="false" />
                 <element signature="e#716#1724#0" expanded="false" />
@@ -352,17 +340,24 @@
       <option name="project" value="LOCAL" />
       <updated>1472977186108</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="end">
+      <created>1473318266781</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1473318266781</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.116361074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47106326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -372,7 +367,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -699,6 +693,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-156.0">
           <caret line="198" column="19" selection-start-line="198" selection-start-column="19" selection-end-line="198" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -706,6 +701,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.111111">
           <caret line="278" column="0" selection-start-line="278" selection-start-column="0" selection-end-line="278" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -741,8 +737,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jd_web/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.186014">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6694678">
+          <caret line="337" column="17" selection-start-line="337" selection-start-column="17" selection-end-line="337" selection-end-column="17" />
           <folding>
             <element signature="e#92#201#0" expanded="false" />
             <element signature="e#716#1724#0" expanded="false" />
