@@ -189,7 +189,7 @@ s, i, em {
 }
 
 .topbanner {
-    background: #8A25C6;
+    background: #ffffff;
 
 }
 .topbanner .tp {
@@ -322,6 +322,7 @@ s, i, em {
     height: 466px;
     background: #C81623;
     position: relative;
+    overflow: hidden;
     
 }
 
