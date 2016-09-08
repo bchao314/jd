@@ -13,16 +13,11 @@ var jsmin=require("gulp-uglify");
  removeComments: true,
      minifyJS: true
  }))
- .pipe(gulp.dest("jsmin"))
+ .pipe(gulp.dest("js"))
  });
 
 gulp.task("jsmin", function () {
     gulp.src("js/index.js")
         .pipe(jsmin())
-        .pipe(gulp.dest("jsmin"))
-});
-gulp.task("cssmin", function () {
-    gulp.src("css/*.css")
-        .pipe(cssmin())
-        .pipe(gulp.dest("cssmin"))
+        .pipe(gulp.dest("css"))
 });

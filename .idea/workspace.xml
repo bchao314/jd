@@ -1,7 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbb98841-f9cb-4eda-a67d-0b54bcd32ce4" name="默认的" comment="" />
+    <list default="true" id="bbb98841-f9cb-4eda-a67d-0b54bcd32ce4" name="默认的" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bingxiang.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/chouzhi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-list1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-list2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-list3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-list4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-list5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-list6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-list7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cloth-list8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/digital-side.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/electical-side.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/item-promotion2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/item-promotions1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/item2-promotions1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/item2-promotions2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jiaodian.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/liuxing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nai.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-main-extra1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-main-extra2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-main-extra3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-main3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-main4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-main5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-main6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-side1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-side2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-slider1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-slider2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-slider3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cloth-slider4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-main-extra1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-main-extra2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-main1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-main2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-main3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-main4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-side1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-slider1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-slider11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-slider2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-slider22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-slider3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-slider33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-slider4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-cosmetics-slider44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-main-extra1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-main-extra2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-main-extra3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-main1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-main2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-main3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-main4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-main5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-slider1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-slider2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-slider3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-digital-slider4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electical-main-extra1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electical-main-extra2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electical-main-extra3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electical-main1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electical-main2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electical-main3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electical-main4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electical-main5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electrical-slider1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electrical-slider2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electrical-slider3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-electrical-slider4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-main-extra1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-main-extra2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-main-extra3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-main1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-main2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-main3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-main4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-main5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-side1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-slide4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-slider1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-slider2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-slider3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p-tel-slider4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shui.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/topbanner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/index.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+    </list>
     <ignored path="jd.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,58 +139,7 @@
     <favorites_list name="jd" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/base.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +147,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
       </list>
     </option>
   </component>
@@ -132,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -181,7 +253,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,6 +266,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zc\Desktop\jd\js" />
       <recent name="C:\Users\zc\Desktop\jd" />
       <recent name="C:\Users\zc\Desktop\jd\jsmin" />
     </key>
@@ -223,6 +295,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -268,23 +345,23 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12200282" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -319,6 +396,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -333,18 +450,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/index.js">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.39149562">
+          <caret line="0" column="5372" selection-start-line="0" selection-start-column="5372" selection-end-line="0" selection-end-column="5372" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7818182">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
