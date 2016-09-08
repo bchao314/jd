@@ -1,27 +1,26 @@
 /**
  * Created by zc on 2016/8/23.
  */
-
 $(function () {
-    /*top-banner*/
-    (function () {
-        $(".close-banner").click(function () {
-            $(this).parent().fadeOut(300);
-        });
+    /*topbanner close*/
+    (function(){
+    $(".close-banner").click(function () {
+        $(".topbanner").fadeOut(500)
+    })
     })();
 
     /*nav-top*/
     (function () {
 
         $(".shortcut").find(".fore").mouseenter(function () {
-            $(this).addClass("hover").siblings().removeClass("hover");
-            var key=$(this).index();
+            $(this).addClass("hover").siblings().removeClass("hover")
+            var key=$(this).index()
             //console.log(key)
-            $(".fore-hover").eq(key).addClass("hover").siblings().removeClass("hover");
+            $(".fore-hover").eq(key).addClass("hover").siblings().removeClass("hover")
         });
 
         $(".shortcut").find(".fore").mouseleave(function () {
-            $(this).removeClass("hover");
+            $(this).removeClass("hover")
         })
 
 
@@ -37,7 +36,7 @@ $(function () {
                 $(".dorpdown-layer").children(".item-sub").hide();
                 $(".dorpdown-layer").children(".item-sub").eq(index).show();
 
-            });
+            })
             $(".dd-inner").hover(function() {
                 $("#index_menus_sub").show();
             }, function() {
@@ -192,10 +191,10 @@ $(function () {
                 clearInterval(timer);
             }).mouseleave(function () {
                 $("#clothes-arrow").css("display", "none");
-                timer = setInterval(clothesAutoPlay, 3000);
+                timer = setInterval(clothesAutoPlay, 3000)
             });
 
-            var key = 1;
+            var key = 1
             /*小按钮事件*/
             var flag = true;
 
@@ -211,6 +210,7 @@ $(function () {
                         flag = true;
                     }, 500);
                 }
+                ;
             });
 
 
@@ -274,7 +274,7 @@ $(function () {
                 clearInterval(timer);
             }).mouseleave(function () {
                 $("#cosmetics-arrow").css("display", "none");
-                timer = setInterval(clothesAutoPlay, 3000);
+                timer = setInterval(clothesAutoPlay, 3000)
             });
 
             var key = 1
@@ -425,7 +425,7 @@ $(function () {
             function slider($telMainSlider,$telSliderBox,$telCircleBox,$telArrow){
                 /*创造小按钮*/
                var timer=null;
-                var $teCircle=$telCircleBox.parent();
+                var $teCircle=$telCircleBox.parent()
                 $telSliderBox.children("li").each(function () {
                     $telCircleBox.append("<li></li>");
                 });
@@ -462,7 +462,7 @@ $(function () {
 
 
                 /*右边按钮*/
-                $telArrow.children("#electrical-arrow-r").click(function () {
+                $telArrow.children("#tel-arrow-r").click(function () {
                     key++;
                     if (key >= 5) {
                         $telSliderBox.css("left", 0);
@@ -475,7 +475,7 @@ $(function () {
 
 
                 /*左边按钮*/
-                $telArrow.children("#electrical-arrow-l").click(function () {
+                $telArrow.children("#tel-arrow-l").click(function () {
                     key--;
                     if (key <= 0) {
                         $telSliderBox.css("left", -2200);
@@ -503,8 +503,8 @@ $(function () {
             var $electricalMainSlider=$("#electrical-main-slider");
             var $electricalSliderBox=$("#electrical-slider-box");
             var $electricalCircleBox=$("#electrical-circle-box");
-            var $electricalArrow=$("#electrical-arrow");
-            slider($electricalMainSlider,$electricalSliderBox,$electricalCircleBox,$electricalArrow);
+            var $electricalArrow=$("#electrical-arrow")
+            slider($electricalMainSlider,$electricalSliderBox,$electricalCircleBox,$electricalArrow)
 
         })();
         /*5f轮播图*/
@@ -528,7 +528,7 @@ $(function () {
                 timer = setInterval(autoPlay, 3000)
             });
 
-            var key = 1;
+            var key = 1
             /*小按钮事件*/
             var flag = true;
             $("#digital-circle-box li").mouseenter(function () {
@@ -591,7 +591,7 @@ $(function () {
 
         (function () {
             $(".tab li").mouseenter(function () {
-                $(this).addClass("tab-active").siblings().removeClass("tab-active");
+                $(this).addClass("tab-active").siblings().removeClass("tab-active")
                 $(".clothes .mc").children(".main-body").eq($(this).index()).addClass("current").siblings().removeClass("current")
             })
         })();
@@ -600,42 +600,42 @@ $(function () {
         /*电梯*/
         (function () {
             var TOP = 0;
-            var $elevatorBox = $(".elevator-box");
-            var $elevatorLi = $elevatorBox.children("li");
+            var $elevatorBox = $(".elevator-box")
+            var $elevatorLi = $elevatorBox.children("li")
             $(window).scroll(function () {
                 TOP = $(document).scrollTop();
                 if (TOP >= $(".digital").offset().top - 300) {
-                    $(".digital.floor").addClass("floor-current").siblings().removeClass("floor-current");
-                    $(".etitle").css("dispaly", "none");
-                    $elevatorLi.eq(4).addClass("current").siblings().removeClass("current");
+                    $(".digital.floor").addClass("floor-current").siblings().removeClass("floor-current")
+                    $(".etitle").css("dispaly", "none")
+                    $elevatorLi.eq(4).addClass("current").siblings().removeClass("current")
                 } else if (TOP >= $(".electrical").offset().top - 300) {
-                    $(".electrical.floor").addClass("floor-current").siblings().removeClass("floor-current");
-                    $elevatorLi.eq(3).addClass("current").siblings().removeClass("current");
+                    $(".electrical.floor").addClass("floor-current").siblings().removeClass("floor-current")
+                    $elevatorLi.eq(3).addClass("current").siblings().removeClass("current")
                 } else if (TOP >= $(".jd-produts .tel").offset().top - 300) {
-                    $(".tel.floor").addClass("floor-current").siblings().removeClass("floor-current");
-                    $elevatorLi.eq(2).addClass("current").siblings().removeClass("current");
+                    $(".tel.floor").addClass("floor-current").siblings().removeClass("floor-current")
+                    $elevatorLi.eq(2).addClass("current").siblings().removeClass("current")
                 } else if (TOP >= $(".cosmetics").offset().top - 300) {
-                    $(".cosmetics.floor").addClass("floor-current").siblings().removeClass("floor-current");
-                    $elevatorLi.eq(1).addClass("current").siblings().removeClass("current");
+                    $(".cosmetics.floor").addClass("floor-current").siblings().removeClass("floor-current")
+                    $elevatorLi.eq(1).addClass("current").siblings().removeClass("current")
                 } else if (TOP >= $(".clothes").offset().top - 300) {
-                    $(".clothes.floor").addClass("floor-current").siblings().removeClass("floor-current");
-                    $elevatorLi.eq(0).addClass("current").siblings().removeClass("current");
+                    $(".clothes.floor").addClass("floor-current").siblings().removeClass("floor-current")
+                    $elevatorLi.eq(0).addClass("current").siblings().removeClass("current")
                 } else if (TOP > 600) {
                     $(".elevator").fadeIn();
                 } else {
                     $(".elevator").fadeOut();
                 }
-            });
+            })
 
             $elevatorLi.click(function () {
                 $("html,body").animate({"scrollTop": $(this).offset().top}, 500)
-            });
+            })
             $(".back").click(function () {
                 $("html,body").animate({"scrollTop": 0}, 500)
-            });
+            })
             $elevatorLi.mouseenter(function () {
                 $(this).addClass("current").siblings().removeClass("current")
-            });
+            })
             $elevatorLi.mouseleave(function () {
                 $elevatorLi.removeClass("current")
             })

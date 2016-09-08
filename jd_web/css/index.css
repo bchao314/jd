@@ -111,7 +111,6 @@ body {
 }
 .main .news .jd-kb .dd {
     height: 130px;
-    overflow: hidden;
 }
 .main .news .jd-kb .dd a {
     height: 24px;
@@ -133,7 +132,6 @@ body {
     border-top: 1px solid #E8E8E7;
     border-right: 1px solid #E8E8E7;
     float: left;
-    overflow: hidden;
 
 }
 .main .news .jd-service li a {
@@ -171,8 +169,6 @@ body {
 }
 .jd-hot .hotmale .hotmale-l {
     float: left;
-    width: 210px;
-    height: 151px;
 }
 
 .jd-hot .hotmale .hotmale-r {
@@ -262,9 +258,6 @@ body {
     margin-top: 18px;
 
 }
-.guessyou-bottom .guessyou-bottom-l {
-    overflow: hidden;
-}
 .guessyou-bottom .guessyou-bottom-l .like-list a {
     display: block;
     width: 71px;
@@ -276,9 +269,7 @@ body {
     margin-top: 18px;
     text-align: center;
     font-family: "微软雅黑";
-    overflow: hidden;
 }
-
 .guessyou-bottom .guessyou-bottom-r li {
     float: left;
     width: 200px;
@@ -786,6 +777,7 @@ body {
 .electrical .mc,
 .digital .mc {
     position: relative;
+    overflow: hidden;
 }
 
 .tel .side,
