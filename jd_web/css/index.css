@@ -1352,6 +1352,13 @@ body {
     overflow: hidden;
 
 }
+.elevator ul li .etitle {
+    width: 30px;
+    height: 30px;
+    font-size: 12px;
+    color: #fff;
+}
+
 .elevator ul li .etitle :hover {
     background: red;
 
@@ -1368,21 +1375,16 @@ body {
     font: 500 14px/30px "arial";
 }
 
-.elevator ul li.current a{
+.elevator ul li.current a,
+.elevator ul li.currentBtn a{
     display: none;
 }
 
-.elevator ul li.current .etitle{
+.elevator ul li.current .etitle,
+.elevator ul li.currentBtn .etitle{
      display: block;
      color: #c81623;
  }
-
-.elevator ul li .etitle {
-    width: 30px;
-    height: 30px;
-    font-size: 12px;
-    color: #fff;
-}
 
 
 
